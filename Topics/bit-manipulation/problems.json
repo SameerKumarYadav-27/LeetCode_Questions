@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-09-15T05:22:36.369Z",
+  "updatedAt": "2026-09-15T05:23:07.605Z",
   "problems": [
     {
       "frontendId": "136",
@@ -62,7 +62,7 @@
           "filename": "1342-number-of-steps-to-reduce-a-number-to-zero.java",
           "path": "1342-number-of-steps-to-reduce-a-number-to-zero/1342-number-of-steps-to-reduce-a-number-to-zero.java",
           "sha": "8bbe9cf40036b782e32c30cd694882ee6dbe3d11",
-          "lastSyncedAt": "2026-09-15T05:07:51.364Z"
+          "lastSyncedAt": "2026-09-15T05:23:07.605Z"
         }
       ]
     }
