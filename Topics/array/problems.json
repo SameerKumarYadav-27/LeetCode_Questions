@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-15T05:04:46.695Z",
+  "updatedAt": "2026-09-15T05:05:13.097Z",
   "problems": [
     {
       "frontendId": "1",
@@ -143,6 +143,26 @@
           "path": "0704-binary-search/0704-binary-search.java",
           "sha": "f4326febfcfe0ea63fdc3347fcb84889e4fce1b1",
           "lastSyncedAt": "2026-09-15T05:04:15.266Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1470",
+      "title": "Shuffle the Array",
+      "slug": "shuffle-the-array",
+      "problemName": "1470-shuffle-the-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shuffle-the-array/",
+      "folderPath": "1470-shuffle-the-array/",
+      "readmePath": "1470-shuffle-the-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1470-shuffle-the-array.java",
+          "path": "1470-shuffle-the-array/1470-shuffle-the-array.java",
+          "sha": "35899d1097320a96f0d9c250775b7cc37c378dcd",
+          "lastSyncedAt": "2026-09-15T05:05:13.097Z"
         }
       ]
     },
