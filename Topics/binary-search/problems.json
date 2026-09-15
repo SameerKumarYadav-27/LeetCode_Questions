@@ -4,7 +4,7 @@
     "slug": "binary-search",
     "name": "Binary Search"
   },
-  "updatedAt": "2026-09-15T05:22:24.061Z",
+  "updatedAt": "2026-09-15T05:23:11.273Z",
   "problems": [
     {
       "frontendId": "35",
@@ -62,7 +62,7 @@
           "filename": "0268-missing-number.java",
           "path": "0268-missing-number/0268-missing-number.java",
           "sha": "254677bf14744cb222be11a00700dc7abb39d18c",
-          "lastSyncedAt": "2026-09-15T05:07:56.396Z"
+          "lastSyncedAt": "2026-09-15T05:23:11.273Z"
         }
       ]
     },
