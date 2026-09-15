@@ -4,6 +4,27 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-15T05:01:39.197Z",
-  "problems": []
+  "updatedAt": "2026-09-15T05:03:49.089Z",
+  "problems": [
+    {
+      "frontendId": "74",
+      "title": "Search a 2D Matrix",
+      "slug": "search-a-2d-matrix",
+      "problemName": "0074-search-a-2d-matrix",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix/",
+      "folderPath": "0074-search-a-2d-matrix/",
+      "readmePath": "0074-search-a-2d-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0074-search-a-2d-matrix.java",
+          "path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.java",
+          "sha": "0bca2d74bb15bf375ab50fba711240cdb4eb5f84",
+          "lastSyncedAt": "2026-09-15T05:03:49.089Z"
+        }
+      ]
+    }
+  ]
 }
