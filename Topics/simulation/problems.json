@@ -4,7 +4,7 @@
     "slug": "simulation",
     "name": "Simulation"
   },
-  "updatedAt": "2026-09-15T05:04:57.045Z",
+  "updatedAt": "2026-09-15T05:05:31.031Z",
   "problems": [
     {
       "frontendId": "412",
@@ -23,6 +23,26 @@
           "path": "0412-fizz-buzz/0412-fizz-buzz.java",
           "sha": "69980dc30698a9f3e007f0a77955e0728df5566f",
           "lastSyncedAt": "2026-09-15T05:04:57.045Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1929",
+      "title": "Concatenation of Array",
+      "slug": "concatenation-of-array",
+      "problemName": "1929-concatenation-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenation-of-array/",
+      "folderPath": "1929-concatenation-of-array/",
+      "readmePath": "1929-concatenation-of-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1929-concatenation-of-array.java",
+          "path": "1929-concatenation-of-array/1929-concatenation-of-array.java",
+          "sha": "a38d5e13f3f0d83809c689ab068e08a31578c8dc",
+          "lastSyncedAt": "2026-09-15T05:05:31.031Z"
         }
       ]
     }
