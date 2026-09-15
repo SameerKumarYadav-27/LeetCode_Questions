@@ -4,6 +4,27 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-15T05:01:39.197Z",
-  "problems": []
+  "updatedAt": "2026-09-15T05:05:51.779Z",
+  "problems": [
+    {
+      "frontendId": "268",
+      "title": "Missing Number",
+      "slug": "missing-number",
+      "problemName": "0268-missing-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/missing-number/",
+      "folderPath": "0268-missing-number/",
+      "readmePath": "0268-missing-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0268-missing-number.java",
+          "path": "0268-missing-number/0268-missing-number.java",
+          "sha": "254677bf14744cb222be11a00700dc7abb39d18c",
+          "lastSyncedAt": "2026-09-15T05:05:51.779Z"
+        }
+      ]
+    }
+  ]
 }
