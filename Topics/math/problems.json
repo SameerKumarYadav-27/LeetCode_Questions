@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-15T05:04:30.022Z",
+  "updatedAt": "2026-09-15T05:04:57.045Z",
   "problems": [
     {
       "frontendId": "66",
@@ -23,6 +23,26 @@
           "path": "0066-plus-one/0066-plus-one.java",
           "sha": "02b47c24be1f69ddf4dcbc4b895589738184f19c",
           "lastSyncedAt": "2026-09-15T05:04:30.022Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "412",
+      "title": "Fizz Buzz",
+      "slug": "fizz-buzz",
+      "problemName": "0412-fizz-buzz",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/fizz-buzz/",
+      "folderPath": "0412-fizz-buzz/",
+      "readmePath": "0412-fizz-buzz/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0412-fizz-buzz.java",
+          "path": "0412-fizz-buzz/0412-fizz-buzz.java",
+          "sha": "69980dc30698a9f3e007f0a77955e0728df5566f",
+          "lastSyncedAt": "2026-09-15T05:04:57.045Z"
         }
       ]
     },
