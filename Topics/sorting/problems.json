@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-15T05:23:11.273Z",
+  "updatedAt": "2026-09-15T17:56:58.580Z",
   "problems": [
     {
       "frontendId": "268",
@@ -22,7 +22,7 @@
           "filename": "0268-missing-number.java",
           "path": "0268-missing-number/0268-missing-number.java",
           "sha": "254677bf14744cb222be11a00700dc7abb39d18c",
-          "lastSyncedAt": "2026-09-15T05:23:11.273Z"
+          "lastSyncedAt": "2026-09-15T17:56:58.580Z"
         }
       ]
     }
