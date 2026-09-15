@@ -4,7 +4,7 @@
     "slug": "matrix",
     "name": "Matrix"
   },
-  "updatedAt": "2026-09-15T05:03:49.089Z",
+  "updatedAt": "2026-09-15T05:05:22.357Z",
   "problems": [
     {
       "frontendId": "74",
@@ -23,6 +23,26 @@
           "path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.java",
           "sha": "0bca2d74bb15bf375ab50fba711240cdb4eb5f84",
           "lastSyncedAt": "2026-09-15T05:03:49.089Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1672",
+      "title": "Richest Customer Wealth",
+      "slug": "richest-customer-wealth",
+      "problemName": "1672-richest-customer-wealth",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/richest-customer-wealth/",
+      "folderPath": "1672-richest-customer-wealth/",
+      "readmePath": "1672-richest-customer-wealth/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1672-richest-customer-wealth.java",
+          "path": "1672-richest-customer-wealth/1672-richest-customer-wealth.java",
+          "sha": "e8f29f44c31cb6e88575d5e8397621b64721df31",
+          "lastSyncedAt": "2026-09-15T05:05:22.357Z"
         }
       ]
     }
