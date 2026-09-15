@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-15T05:22:52.969Z",
+  "updatedAt": "2026-09-15T05:22:55.773Z",
   "problems": [
     {
       "frontendId": "1",
@@ -222,7 +222,7 @@
           "filename": "1672-richest-customer-wealth.java",
           "path": "1672-richest-customer-wealth/1672-richest-customer-wealth.java",
           "sha": "e8f29f44c31cb6e88575d5e8397621b64721df31",
-          "lastSyncedAt": "2026-09-15T05:07:39.975Z"
+          "lastSyncedAt": "2026-09-15T05:22:55.773Z"
         }
       ]
     },
