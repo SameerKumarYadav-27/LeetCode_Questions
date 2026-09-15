@@ -4,6 +4,27 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-15T05:01:39.197Z",
-  "problems": []
+  "updatedAt": "2026-09-15T05:04:46.695Z",
+  "problems": [
+    {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "problemName": "0001-two-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+      "folderPath": "0001-two-sum/",
+      "readmePath": "0001-two-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0001-two-sum.java",
+          "path": "0001-two-sum/0001-two-sum.java",
+          "sha": "3f84cf146fb5682dfeccbe74a161926df767d132",
+          "lastSyncedAt": "2026-09-15T05:04:46.695Z"
+        }
+      ]
+    }
+  ]
 }
