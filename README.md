@@ -65,3 +65,19 @@ Contains topicwise list of solved problems.
 | [String](Topics/string/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 2 |
 <!---LeetHub Summary End-->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/SameerKumarYadav-27/LeetCode_Questions/tree/main/0020-valid-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/SameerKumarYadav-27/LeetCode_Questions/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/SameerKumarYadav-27/LeetCode_Questions/tree/main/0020-valid-parentheses/) | Easy |
+<!---LeetCode Topics End-->
