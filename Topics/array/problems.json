@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-09-24T05:54:55.423Z",
+  "updatedAt": "2026-09-24T05:55:13.639Z",
   "problems": [
     {
       "frontendId": "1",
@@ -62,7 +62,7 @@
           "filename": "0026-remove-duplicates-from-sorted-array.java",
           "path": "0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.java",
           "sha": "ea17e6732e5a793eed14c8465cd8bc2e98546505",
-          "lastSyncedAt": "2026-09-22T18:17:38.262Z"
+          "lastSyncedAt": "2026-09-24T05:55:13.639Z"
         }
       ]
     },
