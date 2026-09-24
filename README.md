@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 17 | 16 | 1 | 0 |
+| 18 | 17 | 1 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 1 days | 11 |
+| 1 days | 1 days | 12 |
 
 | Date | Problems |
 | --- | ---: |
@@ -26,21 +26,22 @@ Contains topicwise list of solved problems.
 | 2026-09-05 | 2 |
 | 2026-09-08 | 1 |
 | 2026-09-10 | 1 |
+| 2026-09-24 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 13 | 76% |
-| Math | 7 | 41% |
-| Binary Search | 4 | 24% |
-| Bit Manipulation | 3 | 18% |
-| Hash Table | 2 | 12% |
-| Matrix | 2 | 12% |
-| Simulation | 2 | 12% |
-| Two Pointers | 2 | 12% |
-| Sorting | 1 | 6% |
-| String | 1 | 6% |
+| Array | 13 | 72% |
+| Math | 7 | 39% |
+| Binary Search | 4 | 22% |
+| Bit Manipulation | 3 | 17% |
+| Hash Table | 2 | 11% |
+| Matrix | 2 | 11% |
+| Simulation | 2 | 11% |
+| String | 2 | 11% |
+| Two Pointers | 2 | 11% |
+| Bracket Sequences | 1 | 6% |
 
 ## Topics
 
@@ -51,6 +52,7 @@ Contains topicwise list of solved problems.
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 0 |
 | [Graph](Topics/graph/) | 0 |
@@ -61,8 +63,8 @@ Contains topicwise list of solved problems.
 | [Matrix](Topics/matrix/) | 2 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 1 |
-| [Stack](Topics/stack/) | 0 |
-| [String](Topics/string/) | 1 |
+| [Stack](Topics/stack/) | 1 |
+| [String](Topics/string/) | 2 |
 | [Two Pointers](Topics/two-pointers/) | 2 |
 <!---LeetHub Summary End-->
 
