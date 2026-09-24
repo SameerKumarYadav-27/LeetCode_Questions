@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-09-24T06:21:28.916Z",
+  "updatedAt": "2026-09-24T06:23:34.825Z",
   "problems": [
     {
       "frontendId": "242",
@@ -22,7 +22,7 @@
           "filename": "0242-valid-anagram.java",
           "path": "0242-valid-anagram/0242-valid-anagram.java",
           "sha": "8bbfda06501a76726b750b1ca603eb5b8d8e8441",
-          "lastSyncedAt": "2026-09-24T06:21:28.916Z"
+          "lastSyncedAt": "2026-09-24T06:23:34.825Z"
         }
       ]
     },
