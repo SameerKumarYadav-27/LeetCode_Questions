@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-24T05:18:44.227Z",
+  "updatedAt": "2026-09-24T05:19:18.382Z",
   "problems": [
     {
       "frontendId": "14",
@@ -22,7 +22,7 @@
           "filename": "0014-longest-common-prefix.java",
           "path": "0014-longest-common-prefix/0014-longest-common-prefix.java",
           "sha": "23dcbdc2d1b9eee28bb3d730efbe79508b6f637f",
-          "lastSyncedAt": "2026-09-24T05:18:44.227Z"
+          "lastSyncedAt": "2026-09-24T05:19:18.382Z"
         }
       ]
     },
