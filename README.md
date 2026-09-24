@@ -73,6 +73,7 @@ Contains topicwise list of solved problems.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/SameerKumarYadav-27/LeetCode_Questions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/SameerKumarYadav-27/LeetCode_Questions/tree/main/0020-valid-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -82,4 +83,12 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SameerKumarYadav-27/LeetCode_Questions/tree/main/0020-valid-parentheses/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/SameerKumarYadav-27/LeetCode_Questions/tree/main/0014-longest-common-prefix/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/SameerKumarYadav-27/LeetCode_Questions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
