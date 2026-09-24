@@ -4,7 +4,7 @@
     "slug": "knuth-morris-pratt-algorithm",
     "name": "Knuth–Morris–Pratt Algorithm"
   },
-  "updatedAt": "2026-09-24T05:53:29.407Z",
+  "updatedAt": "2026-09-24T06:14:21.167Z",
   "problems": [
     {
       "frontendId": "28",
@@ -22,7 +22,7 @@
           "filename": "0028-find-the-index-of-the-first-occurrence-in-a-string.java",
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.java",
           "sha": "03016a13360b37c7f47fe97727c9981747e5b18d",
-          "lastSyncedAt": "2026-09-24T05:53:29.407Z"
+          "lastSyncedAt": "2026-09-24T06:14:21.167Z"
         }
       ]
     }
