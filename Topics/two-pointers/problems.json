@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-24T06:14:51.110Z",
+  "updatedAt": "2026-09-24T06:21:18.227Z",
   "problems": [
     {
       "frontendId": "26",
@@ -63,6 +63,26 @@
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.java",
           "sha": "03016a13360b37c7f47fe97727c9981747e5b18d",
           "lastSyncedAt": "2026-09-24T06:14:21.167Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "344",
+      "title": "Reverse String",
+      "slug": "reverse-string",
+      "problemName": "0344-reverse-string",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-string/",
+      "folderPath": "0344-reverse-string/",
+      "readmePath": "0344-reverse-string/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0344-reverse-string.java",
+          "path": "0344-reverse-string/0344-reverse-string.java",
+          "sha": "4f6af670b43a450909a136c624039d71c1447995",
+          "lastSyncedAt": "2026-09-24T06:21:18.227Z"
         }
       ]
     }
