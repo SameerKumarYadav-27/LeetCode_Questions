@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 19 | 1 | 0 |
+| 21 | 20 | 1 | 0 |
 
 ## Activity
 
@@ -26,22 +26,22 @@ Contains topicwise list of solved problems.
 | 2026-09-05 | 2 |
 | 2026-09-08 | 1 |
 | 2026-09-10 | 1 |
-| 2026-09-24 | 3 |
+| 2026-09-24 | 4 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 14 | 70% |
-| Math | 7 | 35% |
-| Binary Search | 4 | 20% |
-| String | 4 | 20% |
-| Bit Manipulation | 3 | 15% |
-| Two Pointers | 3 | 15% |
-| Hash Table | 2 | 10% |
+| Array | 14 | 67% |
+| Math | 7 | 33% |
+| String | 5 | 24% |
+| Binary Search | 4 | 19% |
+| Bit Manipulation | 3 | 14% |
+| Hash Table | 3 | 14% |
+| Two Pointers | 3 | 14% |
 | Matrix | 2 | 10% |
 | Simulation | 2 | 10% |
-| Boyer–Moore String-Search Algorithm | 1 | 5% |
+| Sorting | 2 | 10% |
 
 ## Topics
 
@@ -57,16 +57,16 @@ Contains topicwise list of solved problems.
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 0 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 2 |
+| [Hash Table](Topics/hash-table/) | 3 |
 | [Heap](Topics/heap/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 0 |
 | [Math](Topics/math/) | 7 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Simulation](Topics/simulation/) | 2 |
-| [Sorting](Topics/sorting/) | 1 |
+| [Sorting](Topics/sorting/) | 2 |
 | [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 4 |
+| [String](Topics/string/) | 5 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 3 |
