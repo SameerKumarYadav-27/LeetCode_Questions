@@ -5,13 +5,13 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 21 | 20 | 1 | 0 |
+| 23 | 22 | 1 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 1 days | 12 |
+| 1 days | 1 days | 13 |
 
 | Date | Problems |
 | --- | ---: |
@@ -26,22 +26,23 @@ Contains topicwise list of solved problems.
 | 2026-09-05 | 2 |
 | 2026-09-08 | 1 |
 | 2026-09-10 | 1 |
-| 2026-09-24 | 4 |
+| 2026-09-24 | 5 |
+| 2026-09-28 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 14 | 67% |
-| Math | 7 | 33% |
-| String | 5 | 24% |
-| Binary Search | 4 | 19% |
-| Bit Manipulation | 3 | 14% |
-| Hash Table | 3 | 14% |
-| Two Pointers | 3 | 14% |
-| Matrix | 2 | 10% |
-| Simulation | 2 | 10% |
-| Sorting | 2 | 10% |
+| Array | 14 | 61% |
+| Math | 7 | 30% |
+| String | 7 | 30% |
+| Binary Search | 4 | 17% |
+| Two Pointers | 4 | 17% |
+| Bit Manipulation | 3 | 13% |
+| Hash Table | 3 | 13% |
+| Bracket Sequences | 2 | 9% |
+| Matrix | 2 | 9% |
+| Simulation | 2 | 9% |
 
 ## Topics
 
@@ -53,7 +54,7 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 1 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 2 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 0 |
 | [Graph](Topics/graph/) | 0 |
@@ -65,11 +66,11 @@ Contains topicwise list of solved problems.
 | [Matrix](Topics/matrix/) | 2 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 2 |
-| [Stack](Topics/stack/) | 1 |
-| [String](Topics/string/) | 5 |
+| [Stack](Topics/stack/) | 2 |
+| [String](Topics/string/) | 7 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 3 |
+| [Two Pointers](Topics/two-pointers/) | 4 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
