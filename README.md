@@ -83,14 +83,17 @@ Contains topicwise list of solved problems.
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SameerKumarYadav-27/LeetCode_Questions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0242-valid-anagram](https://github.com/SameerKumarYadav-27/LeetCode_Questions/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/SameerKumarYadav-27/LeetCode_Questions/tree/main/0344-reverse-string/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SameerKumarYadav-27/LeetCode_Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SameerKumarYadav-27/LeetCode_Questions/tree/main/0020-valid-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SameerKumarYadav-27/LeetCode_Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/SameerKumarYadav-27/LeetCode_Questions/tree/main/0020-valid-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SameerKumarYadav-27/LeetCode_Questions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
