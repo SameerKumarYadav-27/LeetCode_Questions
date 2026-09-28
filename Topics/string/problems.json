@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-09-28T18:29:24.008Z",
+  "updatedAt": "2026-09-28T18:32:02.381Z",
   "problems": [
     {
       "frontendId": "14",
@@ -63,6 +63,26 @@
           "path": "0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.java",
           "sha": "03016a13360b37c7f47fe97727c9981747e5b18d",
           "lastSyncedAt": "2026-09-28T18:29:24.008Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "125",
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "problemName": "0125-valid-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
+      "folderPath": "0125-valid-palindrome/",
+      "readmePath": "0125-valid-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0125-valid-palindrome.java",
+          "path": "0125-valid-palindrome/0125-valid-palindrome.java",
+          "sha": "678f7624f86ef5a117de1088a2b8934bc1d9b546",
+          "lastSyncedAt": "2026-09-28T18:32:02.381Z"
         }
       ]
     },
