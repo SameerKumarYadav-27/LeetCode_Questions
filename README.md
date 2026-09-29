@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 24 | 23 | 1 | 0 |
+| 25 | 23 | 2 | 0 |
 
 ## Activity
 
@@ -28,19 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-09-10 | 1 |
 | 2026-09-24 | 5 |
 | 2026-09-28 | 1 |
-| 2026-09-29 | 1 |
+| 2026-09-29 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 14 | 58% |
-| String | 8 | 33% |
-| Math | 7 | 29% |
-| Two Pointers | 5 | 21% |
-| Binary Search | 4 | 17% |
-| Bit Manipulation | 3 | 13% |
-| Hash Table | 3 | 13% |
+| Array | 14 | 56% |
+| Math | 8 | 32% |
+| String | 8 | 32% |
+| Two Pointers | 6 | 24% |
+| Binary Search | 4 | 16% |
+| Bit Manipulation | 3 | 12% |
+| Hash Table | 3 | 12% |
 | Bracket Sequences | 2 | 8% |
 | Matrix | 2 | 8% |
 | Simulation | 2 | 8% |
@@ -56,6 +56,7 @@ Contains topicwise list of solved problems.
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
+| [Brainteaser](Topics/brainteaser/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 0 |
 | [Graph](Topics/graph/) | 0 |
@@ -63,7 +64,7 @@ Contains topicwise list of solved problems.
 | [Heap](Topics/heap/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 7 |
+| [Math](Topics/math/) | 8 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 2 |
@@ -71,7 +72,7 @@ Contains topicwise list of solved problems.
 | [String](Topics/string/) | 8 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 5 |
+| [Two Pointers](Topics/two-pointers/) | 6 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
