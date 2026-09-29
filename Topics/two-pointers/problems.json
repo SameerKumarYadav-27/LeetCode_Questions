@@ -4,7 +4,7 @@
     "slug": "two-pointers",
     "name": "Two Pointers"
   },
-  "updatedAt": "2026-09-29T05:50:08.759Z",
+  "updatedAt": "2026-09-29T05:51:39.991Z",
   "problems": [
     {
       "frontendId": "26",
@@ -122,7 +122,7 @@
           "filename": "2396-strictly-palindromic-number.java",
           "path": "2396-strictly-palindromic-number/2396-strictly-palindromic-number.java",
           "sha": "cc21e3649955fb02893991ff83f498239e3ac6e4",
-          "lastSyncedAt": "2026-09-29T05:48:01.644Z"
+          "lastSyncedAt": "2026-09-29T05:51:39.991Z"
         }
       ]
     }
