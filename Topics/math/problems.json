@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-09-30T18:26:26.833Z",
+  "updatedAt": "2026-09-30T18:26:46.266Z",
   "problems": [
     {
       "frontendId": "9",
@@ -82,7 +82,7 @@
           "filename": "0412-fizz-buzz.java",
           "path": "0412-fizz-buzz/0412-fizz-buzz.java",
           "sha": "69980dc30698a9f3e007f0a77955e0728df5566f",
-          "lastSyncedAt": "2026-09-30T18:12:12.738Z"
+          "lastSyncedAt": "2026-09-30T18:26:46.266Z"
         }
       ]
     },
