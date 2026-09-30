@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-09-29T06:19:59.456Z",
+  "updatedAt": "2026-09-30T17:50:09.169Z",
   "problems": [
     {
       "frontendId": "1",
@@ -23,6 +23,26 @@
           "path": "0001-two-sum/0001-two-sum.java",
           "sha": "3f84cf146fb5682dfeccbe74a161926df767d132",
           "lastSyncedAt": "2026-09-29T05:49:27.393Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "49",
+      "title": "Group Anagrams",
+      "slug": "group-anagrams",
+      "problemName": "0049-group-anagrams",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/group-anagrams/",
+      "folderPath": "0049-group-anagrams/",
+      "readmePath": "0049-group-anagrams/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0049-group-anagrams.java",
+          "path": "0049-group-anagrams/0049-group-anagrams.java",
+          "sha": "d4484f17ff3af9411e45299f052a84ab590a0759",
+          "lastSyncedAt": "2026-09-30T17:50:09.169Z"
         }
       ]
     },
