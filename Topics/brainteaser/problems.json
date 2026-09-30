@@ -4,7 +4,7 @@
     "slug": "brainteaser",
     "name": "Brainteaser"
   },
-  "updatedAt": "2026-09-30T18:20:26.148Z",
+  "updatedAt": "2026-09-30T18:24:34.944Z",
   "problems": [
     {
       "frontendId": "2396",
@@ -22,7 +22,7 @@
           "filename": "2396-strictly-palindromic-number.java",
           "path": "2396-strictly-palindromic-number/2396-strictly-palindromic-number.java",
           "sha": "cc21e3649955fb02893991ff83f498239e3ac6e4",
-          "lastSyncedAt": "2026-09-30T18:20:26.148Z"
+          "lastSyncedAt": "2026-09-30T18:24:34.944Z"
         }
       ]
     }
