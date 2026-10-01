@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 25 | 23 | 2 | 0 |
+| 27 | 24 | 3 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 2 days | 14 |
+| 3 days | 3 days | 15 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-08 | 1 |
 | 2026-08-11 | 2 |
 | 2026-08-13 | 1 |
 | 2026-08-18 | 3 |
@@ -29,27 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-09-24 | 5 |
 | 2026-09-28 | 1 |
 | 2026-09-29 | 2 |
+| 2026-09-30 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 14 | 56% |
-| Math | 8 | 32% |
-| String | 8 | 32% |
-| Two Pointers | 6 | 24% |
-| Binary Search | 4 | 16% |
-| Bit Manipulation | 3 | 12% |
-| Hash Table | 3 | 12% |
-| Bracket Sequences | 2 | 8% |
-| Matrix | 2 | 8% |
-| Simulation | 2 | 8% |
+| Array | 15 | 56% |
+| String | 10 | 37% |
+| Math | 8 | 30% |
+| Two Pointers | 6 | 22% |
+| Hash Table | 5 | 19% |
+| Binary Search | 4 | 15% |
+| Bit Manipulation | 3 | 11% |
+| Sorting | 3 | 11% |
+| Bracket Sequences | 2 | 7% |
+| Matrix | 2 | 7% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 14 |
+| [Array](Topics/array/) | 15 |
 | [Backtracking](Topics/backtracking/) | 0 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
@@ -57,19 +57,21 @@ Contains topicwise list of solved problems.
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
 | [Bracket Sequences](Topics/bracket-sequences/) | 2 |
 | [Brainteaser](Topics/brainteaser/) | 1 |
+| [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
 | [Dynamic Programming](Topics/dynamic-programming/) | 0 |
 | [Graph](Topics/graph/) | 0 |
-| [Hash Table](Topics/hash-table/) | 3 |
+| [Hash Table](Topics/hash-table/) | 5 |
 | [Heap](Topics/heap/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 0 |
 | [Math](Topics/math/) | 8 |
 | [Matrix](Topics/matrix/) | 2 |
+| [Queue](Topics/queue/) | 1 |
 | [Simulation](Topics/simulation/) | 2 |
-| [Sorting](Topics/sorting/) | 2 |
+| [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 8 |
+| [String](Topics/string/) | 10 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 6 |
