@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-01T04:46:32.619Z",
+  "updatedAt": "2026-10-01T04:46:36.364Z",
   "problems": [
     {
       "frontendId": "14",
@@ -202,7 +202,7 @@
           "filename": "1614-maximum-nesting-depth-of-the-parentheses.java",
           "path": "1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.java",
           "sha": "2fef31761d26afad48c83ac9c78ecaa2a73943df",
-          "lastSyncedAt": "2026-10-01T04:41:10.072Z"
+          "lastSyncedAt": "2026-10-01T04:46:36.364Z"
         }
       ]
     }
