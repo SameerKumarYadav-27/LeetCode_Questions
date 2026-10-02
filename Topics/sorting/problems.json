@@ -4,7 +4,7 @@
     "slug": "sorting",
     "name": "Sorting"
   },
-  "updatedAt": "2026-10-02T17:37:12.616Z",
+  "updatedAt": "2026-10-02T17:40:53.815Z",
   "problems": [
     {
       "frontendId": "49",
@@ -22,7 +22,7 @@
           "filename": "0049-group-anagrams.java",
           "path": "0049-group-anagrams/0049-group-anagrams.java",
           "sha": "d4484f17ff3af9411e45299f052a84ab590a0759",
-          "lastSyncedAt": "2026-10-02T17:36:32.712Z"
+          "lastSyncedAt": "2026-10-02T17:40:53.815Z"
         }
       ]
     },
