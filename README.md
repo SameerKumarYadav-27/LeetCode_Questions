@@ -148,6 +148,7 @@ Contains topicwise list of solved problems.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/SameerKumarYadav-27/LeetCode_Questions/tree/main/0050-powx-n/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/SameerKumarYadav-27/LeetCode_Questions/tree/main/2396-strictly-palindromic-number/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -161,4 +162,8 @@ Contains topicwise list of solved problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SameerKumarYadav-27/LeetCode_Questions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/SameerKumarYadav-27/LeetCode_Questions/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
