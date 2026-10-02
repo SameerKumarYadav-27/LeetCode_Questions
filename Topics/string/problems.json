@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-02T17:29:21.897Z",
+  "updatedAt": "2026-10-02T17:30:34.816Z",
   "problems": [
     {
       "frontendId": "14",
@@ -42,7 +42,7 @@
           "filename": "0020-valid-parentheses.java",
           "path": "0020-valid-parentheses/0020-valid-parentheses.java",
           "sha": "defc11f5f885ed4f12ab1dc82ceb2aad8ca282d0",
-          "lastSyncedAt": "2026-10-02T17:29:10.563Z"
+          "lastSyncedAt": "2026-10-02T17:30:34.816Z"
         }
       ]
     },
