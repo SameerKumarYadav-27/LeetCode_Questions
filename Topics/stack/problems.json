@@ -4,7 +4,7 @@
     "slug": "stack",
     "name": "Stack"
   },
-  "updatedAt": "2026-10-02T17:40:32.672Z",
+  "updatedAt": "2026-10-02T17:41:29.429Z",
   "problems": [
     {
       "frontendId": "20",
@@ -42,7 +42,7 @@
           "filename": "1614-maximum-nesting-depth-of-the-parentheses.java",
           "path": "1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.java",
           "sha": "2fef31761d26afad48c83ac9c78ecaa2a73943df",
-          "lastSyncedAt": "2026-10-02T17:37:04.748Z"
+          "lastSyncedAt": "2026-10-02T17:41:29.429Z"
         }
       ]
     }
