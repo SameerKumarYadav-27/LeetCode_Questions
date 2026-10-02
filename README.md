@@ -65,9 +65,10 @@ Contains topicwise list of solved problems.
 | [Heap](Topics/heap/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 8 |
+| [Math](Topics/math/) | 9 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Queue](Topics/queue/) | 1 |
+| [Recursion](Topics/recursion/) | 1 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 2 |
