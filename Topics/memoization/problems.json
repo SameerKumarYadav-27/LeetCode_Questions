@@ -4,7 +4,7 @@
     "slug": "memoization",
     "name": "Memoization"
   },
-  "updatedAt": "2026-10-04T17:58:05.302Z",
+  "updatedAt": "2026-10-04T17:59:08.256Z",
   "problems": [
     {
       "frontendId": "509",
@@ -22,7 +22,7 @@
           "filename": "0509-fibonacci-number.java",
           "path": "0509-fibonacci-number/0509-fibonacci-number.java",
           "sha": "0a6df822426e0475d5a798c8a30a82113bf2721b",
-          "lastSyncedAt": "2026-10-04T17:58:05.302Z"
+          "lastSyncedAt": "2026-10-04T17:59:08.256Z"
         }
       ]
     }
