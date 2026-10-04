@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 28 | 24 | 4 | 0 |
+| 30 | 26 | 4 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 3 days | 16 |
+| 1 days | 3 days | 17 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-13 | 1 |
 | 2026-08-18 | 3 |
 | 2026-08-20 | 1 |
 | 2026-08-22 | 2 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-29 | 2 |
 | 2026-09-30 | 2 |
 | 2026-10-02 | 1 |
+| 2026-10-04 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 15 | 54% |
-| String | 10 | 36% |
-| Math | 9 | 32% |
-| Two Pointers | 6 | 21% |
-| Hash Table | 5 | 18% |
-| Binary Search | 4 | 14% |
-| Bit Manipulation | 3 | 11% |
-| Sorting | 3 | 11% |
+| Array | 15 | 50% |
+| Math | 11 | 37% |
+| String | 10 | 33% |
+| Two Pointers | 6 | 20% |
+| Hash Table | 5 | 17% |
+| Binary Search | 4 | 13% |
+| Bit Manipulation | 3 | 10% |
+| Sorting | 3 | 10% |
 | Bracket Sequences | 2 | 7% |
-| Matrix | 2 | 7% |
+| Dynamic Programming | 2 | 7% |
 
 ## Topics
 
@@ -59,16 +59,17 @@ Contains topicwise list of solved problems.
 | [Brainteaser](Topics/brainteaser/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 0 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 2 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 5 |
 | [Heap](Topics/heap/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 9 |
+| [Math](Topics/math/) | 11 |
 | [Matrix](Topics/matrix/) | 2 |
+| [Memoization](Topics/memoization/) | 2 |
 | [Queue](Topics/queue/) | 1 |
-| [Recursion](Topics/recursion/) | 1 |
+| [Recursion](Topics/recursion/) | 2 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 2 |
