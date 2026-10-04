@@ -4,7 +4,7 @@
     "slug": "array",
     "name": "Array"
   },
-  "updatedAt": "2026-10-04T18:17:40.254Z",
+  "updatedAt": "2026-10-04T18:17:43.878Z",
   "problems": [
     {
       "frontendId": "1",
@@ -182,7 +182,7 @@
           "filename": "0136-single-number.java",
           "path": "0136-single-number/0136-single-number.java",
           "sha": "dd576d6d71879b1af07a6410854121413891a0c8",
-          "lastSyncedAt": "2026-10-04T18:14:06.047Z"
+          "lastSyncedAt": "2026-10-04T18:17:43.878Z"
         }
       ]
     },
