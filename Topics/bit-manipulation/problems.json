@@ -4,7 +4,7 @@
     "slug": "bit-manipulation",
     "name": "Bit Manipulation"
   },
-  "updatedAt": "2026-10-04T18:18:13.584Z",
+  "updatedAt": "2026-10-04T18:18:17.524Z",
   "problems": [
     {
       "frontendId": "136",
@@ -42,7 +42,7 @@
           "filename": "0268-missing-number.java",
           "path": "0268-missing-number/0268-missing-number.java",
           "sha": "254677bf14744cb222be11a00700dc7abb39d18c",
-          "lastSyncedAt": "2026-10-04T18:14:37.142Z"
+          "lastSyncedAt": "2026-10-04T18:18:17.524Z"
         }
       ]
     },
