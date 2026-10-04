@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-04T17:59:16.519Z",
+  "updatedAt": "2026-10-04T18:10:34.170Z",
   "problems": [
     {
       "frontendId": "9",
@@ -63,6 +63,26 @@
           "path": "0066-plus-one/0066-plus-one.java",
           "sha": "02b47c24be1f69ddf4dcbc4b895589738184f19c",
           "lastSyncedAt": "2026-10-02T17:49:24.926Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "70",
+      "title": "Climbing Stairs",
+      "slug": "climbing-stairs",
+      "problemName": "0070-climbing-stairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/climbing-stairs/",
+      "folderPath": "0070-climbing-stairs/",
+      "readmePath": "0070-climbing-stairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0070-climbing-stairs.java",
+          "path": "0070-climbing-stairs/0070-climbing-stairs.java",
+          "sha": "a810c7ac796d8a3ca0e758d2361d630aa84be9fa",
+          "lastSyncedAt": "2026-10-04T18:10:34.170Z"
         }
       ]
     },
