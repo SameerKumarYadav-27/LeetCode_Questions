@@ -4,7 +4,7 @@
     "slug": "dynamic-programming",
     "name": "Dynamic Programming"
   },
-  "updatedAt": "2026-10-04T18:10:34.170Z",
+  "updatedAt": "2026-10-04T18:12:13.708Z",
   "problems": [
     {
       "frontendId": "70",
@@ -22,7 +22,7 @@
           "filename": "0070-climbing-stairs.java",
           "path": "0070-climbing-stairs/0070-climbing-stairs.java",
           "sha": "a810c7ac796d8a3ca0e758d2361d630aa84be9fa",
-          "lastSyncedAt": "2026-10-04T18:10:34.170Z"
+          "lastSyncedAt": "2026-10-04T18:12:13.708Z"
         }
       ]
     },
