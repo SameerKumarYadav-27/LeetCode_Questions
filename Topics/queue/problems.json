@@ -4,7 +4,7 @@
     "slug": "queue",
     "name": "Queue"
   },
-  "updatedAt": "2026-10-04T18:12:37.046Z",
+  "updatedAt": "2026-10-04T18:16:21.435Z",
   "problems": [
     {
       "frontendId": "387",
@@ -22,7 +22,7 @@
           "filename": "0387-first-unique-character-in-a-string.java",
           "path": "0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.java",
           "sha": "683a099360949b462312a124ef545bce6915970f",
-          "lastSyncedAt": "2026-10-04T18:12:37.046Z"
+          "lastSyncedAt": "2026-10-04T18:16:21.435Z"
         }
       ]
     }
