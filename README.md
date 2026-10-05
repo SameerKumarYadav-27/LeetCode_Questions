@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 30 | 26 | 4 | 0 |
+| 31 | 26 | 5 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 3 days | 17 |
+| 2 days | 3 days | 18 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-18 | 3 |
 | 2026-08-20 | 1 |
 | 2026-08-22 | 2 |
 | 2026-08-27 | 2 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-09-30 | 2 |
 | 2026-10-02 | 1 |
 | 2026-10-04 | 2 |
+| 2026-10-05 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 15 | 50% |
-| Math | 11 | 37% |
-| String | 10 | 33% |
-| Two Pointers | 6 | 20% |
-| Hash Table | 5 | 17% |
+| Array | 15 | 48% |
+| Math | 11 | 35% |
+| String | 11 | 35% |
+| Two Pointers | 6 | 19% |
+| Hash Table | 5 | 16% |
 | Binary Search | 4 | 13% |
 | Bit Manipulation | 3 | 10% |
+| Bracket Sequences | 3 | 10% |
 | Sorting | 3 | 10% |
-| Bracket Sequences | 2 | 7% |
-| Dynamic Programming | 2 | 7% |
+| Stack | 3 | 10% |
 
 ## Topics
 
@@ -55,7 +55,7 @@ Contains topicwise list of solved problems.
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 2 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 3 |
 | [Brainteaser](Topics/brainteaser/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
@@ -72,8 +72,8 @@ Contains topicwise list of solved problems.
 | [Recursion](Topics/recursion/) | 2 |
 | [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 3 |
-| [Stack](Topics/stack/) | 2 |
-| [String](Topics/string/) | 10 |
+| [Stack](Topics/stack/) | 3 |
+| [String](Topics/string/) | 11 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 6 |
