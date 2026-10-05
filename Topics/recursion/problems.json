@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-10-05T18:08:09.503Z",
+  "updatedAt": "2026-10-05T18:18:23.986Z",
   "problems": [
     {
       "frontendId": "50",
@@ -42,7 +42,7 @@
           "filename": "0509-fibonacci-number.java",
           "path": "0509-fibonacci-number/0509-fibonacci-number.java",
           "sha": "0a6df822426e0475d5a798c8a30a82113bf2721b",
-          "lastSyncedAt": "2026-10-05T18:08:01.940Z"
+          "lastSyncedAt": "2026-10-05T18:18:23.986Z"
         }
       ]
     }
