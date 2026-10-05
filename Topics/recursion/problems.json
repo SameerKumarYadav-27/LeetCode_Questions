@@ -4,7 +4,7 @@
     "slug": "recursion",
     "name": "Recursion"
   },
-  "updatedAt": "2026-10-05T17:59:45.622Z",
+  "updatedAt": "2026-10-05T17:59:53.922Z",
   "problems": [
     {
       "frontendId": "50",
@@ -22,7 +22,7 @@
           "filename": "0050-powx-n.java",
           "path": "0050-powx-n/0050-powx-n.java",
           "sha": "d460eb4b5ba19d62a2ecabfd7f8b66f90c13d1b4",
-          "lastSyncedAt": "2026-10-04T18:16:11.545Z"
+          "lastSyncedAt": "2026-10-05T17:59:53.922Z"
         }
       ]
     },
