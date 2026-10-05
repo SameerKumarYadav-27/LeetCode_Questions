@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-05T18:10:00.169Z",
+  "updatedAt": "2026-10-05T18:10:30.029Z",
   "problems": [
     {
       "frontendId": "1",
@@ -82,7 +82,7 @@
           "filename": "0268-missing-number.java",
           "path": "0268-missing-number/0268-missing-number.java",
           "sha": "254677bf14744cb222be11a00700dc7abb39d18c",
-          "lastSyncedAt": "2026-10-04T18:18:17.524Z"
+          "lastSyncedAt": "2026-10-05T18:10:30.029Z"
         }
       ]
     },
