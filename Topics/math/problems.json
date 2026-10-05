@@ -4,7 +4,7 @@
     "slug": "math",
     "name": "Math"
   },
-  "updatedAt": "2026-10-05T18:18:32.673Z",
+  "updatedAt": "2026-10-05T18:19:08.379Z",
   "problems": [
     {
       "frontendId": "9",
@@ -202,7 +202,7 @@
           "filename": "2396-strictly-palindromic-number.java",
           "path": "2396-strictly-palindromic-number/2396-strictly-palindromic-number.java",
           "sha": "cc21e3649955fb02893991ff83f498239e3ac6e4",
-          "lastSyncedAt": "2026-10-05T18:08:36.402Z"
+          "lastSyncedAt": "2026-10-05T18:19:08.379Z"
         }
       ]
     },
