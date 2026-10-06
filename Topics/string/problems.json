@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-06T05:06:03.855Z",
+  "updatedAt": "2026-10-06T05:06:17.840Z",
   "problems": [
     {
       "frontendId": "14",
@@ -162,7 +162,7 @@
           "filename": "0344-reverse-string.java",
           "path": "0344-reverse-string/0344-reverse-string.java",
           "sha": "0765603ceac8856864e14b21142adb44ee4b319a",
-          "lastSyncedAt": "2026-10-06T04:37:31.190Z"
+          "lastSyncedAt": "2026-10-06T05:06:17.840Z"
         }
       ]
     },
