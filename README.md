@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 31 | 26 | 5 | 0 |
+| 32 | 26 | 6 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 3 days | 18 |
+| 3 days | 3 days | 19 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-08-20 | 1 |
 | 2026-08-22 | 2 |
 | 2026-08-27 | 2 |
 | 2026-09-02 | 1 |
@@ -29,37 +28,38 @@ Contains topicwise list of solved problems.
 | 2026-10-02 | 1 |
 | 2026-10-04 | 2 |
 | 2026-10-05 | 1 |
+| 2026-10-06 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 15 | 48% |
-| Math | 11 | 35% |
-| String | 11 | 35% |
+| Array | 15 | 47% |
+| String | 12 | 38% |
+| Math | 11 | 34% |
 | Two Pointers | 6 | 19% |
 | Hash Table | 5 | 16% |
 | Binary Search | 4 | 13% |
-| Bit Manipulation | 3 | 10% |
-| Bracket Sequences | 3 | 10% |
-| Sorting | 3 | 10% |
-| Stack | 3 | 10% |
+| Bracket Sequences | 4 | 13% |
+| Bit Manipulation | 3 | 9% |
+| Dynamic Programming | 3 | 9% |
+| Sorting | 3 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Array](Topics/array/) | 15 |
-| [Backtracking](Topics/backtracking/) | 0 |
+| [Backtracking](Topics/backtracking/) | 1 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Binary Tree](Topics/binary-tree/) | 0 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 3 |
 | [Boyer–Moore String-Search Algorithm](Topics/boyer-moore-string-search-algorithm/) | 1 |
-| [Bracket Sequences](Topics/bracket-sequences/) | 3 |
+| [Bracket Sequences](Topics/bracket-sequences/) | 4 |
 | [Brainteaser](Topics/brainteaser/) | 1 |
 | [Counting](Topics/counting/) | 1 |
 | [Data Structures](Topics/data-structures/) | 0 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 2 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
 | [Graph](Topics/graph/) | 0 |
 | [Hash Table](Topics/hash-table/) | 5 |
 | [Heap](Topics/heap/) | 0 |
@@ -73,7 +73,7 @@ Contains topicwise list of solved problems.
 | [Simulation](Topics/simulation/) | 2 |
 | [Sorting](Topics/sorting/) | 3 |
 | [Stack](Topics/stack/) | 3 |
-| [String](Topics/string/) | 11 |
+| [String](Topics/string/) | 12 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
 | [Two Pointers](Topics/two-pointers/) | 6 |
