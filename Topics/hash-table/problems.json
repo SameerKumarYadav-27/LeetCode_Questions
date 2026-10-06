@@ -4,7 +4,7 @@
     "slug": "hash-table",
     "name": "Hash Table"
   },
-  "updatedAt": "2026-10-05T18:20:39.006Z",
+  "updatedAt": "2026-10-06T04:37:01.564Z",
   "problems": [
     {
       "frontendId": "1",
@@ -102,7 +102,7 @@
           "filename": "0387-first-unique-character-in-a-string.java",
           "path": "0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.java",
           "sha": "683a099360949b462312a124ef545bce6915970f",
-          "lastSyncedAt": "2026-10-05T18:18:47.163Z"
+          "lastSyncedAt": "2026-10-06T04:37:01.564Z"
         }
       ]
     }
