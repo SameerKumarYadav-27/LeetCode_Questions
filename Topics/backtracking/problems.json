@@ -4,6 +4,27 @@
     "slug": "backtracking",
     "name": "Backtracking"
   },
-  "updatedAt": "2026-09-15T05:01:39.197Z",
-  "problems": []
+  "updatedAt": "2026-10-06T05:04:14.533Z",
+  "problems": [
+    {
+      "frontendId": "22",
+      "title": "Generate Parentheses",
+      "slug": "generate-parentheses",
+      "problemName": "0022-generate-parentheses",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/generate-parentheses/",
+      "folderPath": "0022-generate-parentheses/",
+      "readmePath": "0022-generate-parentheses/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0022-generate-parentheses.java",
+          "path": "0022-generate-parentheses/0022-generate-parentheses.java",
+          "sha": "4bd01d7cca72a6ae6835114f334c8ac0eee98271",
+          "lastSyncedAt": "2026-10-06T05:04:14.533Z"
+        }
+      ]
+    }
+  ]
 }
