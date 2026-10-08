@@ -4,7 +4,7 @@
     "slug": "string",
     "name": "String"
   },
-  "updatedAt": "2026-10-08T04:44:59.003Z",
+  "updatedAt": "2026-10-08T06:18:35.192Z",
   "problems": [
     {
       "frontendId": "14",
@@ -203,6 +203,26 @@
           "path": "0412-fizz-buzz/0412-fizz-buzz.java",
           "sha": "69980dc30698a9f3e007f0a77955e0728df5566f",
           "lastSyncedAt": "2026-10-08T04:44:59.003Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "709",
+      "title": "To Lower Case",
+      "slug": "to-lower-case",
+      "problemName": "0709-to-lower-case",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/to-lower-case/",
+      "folderPath": "0709-to-lower-case/",
+      "readmePath": "0709-to-lower-case/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0709-to-lower-case.java",
+          "path": "0709-to-lower-case/0709-to-lower-case.java",
+          "sha": "fe216f49c22c461dd199a3c6e6d3fb00c3cb27d9",
+          "lastSyncedAt": "2026-10-08T06:18:35.192Z"
         }
       ]
     },
