@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "array",
-    "name": "Array"
+    "name": "Array",
+    "tagId": "5"
   },
-  "updatedAt": "2026-10-08T04:45:40.065Z",
+  "updatedAt": "2026-10-10T04:40:34.564Z",
   "problems": [
     {
       "frontendId": "1",
@@ -122,7 +123,7 @@
           "filename": "0049-group-anagrams.java",
           "path": "0049-group-anagrams/0049-group-anagrams.java",
           "sha": "d4484f17ff3af9411e45299f052a84ab590a0759",
-          "lastSyncedAt": "2026-10-08T04:43:15.290Z"
+          "lastSyncedAt": "2026-10-10T04:40:34.564Z"
         }
       ]
     },
