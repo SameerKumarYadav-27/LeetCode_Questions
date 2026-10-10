@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "two-pointers",
-    "name": "Two Pointers"
+    "name": "Two Pointers",
+    "tagId": "9"
   },
-  "updatedAt": "2026-10-08T04:45:40.065Z",
+  "updatedAt": "2026-10-10T04:40:46.953Z",
   "problems": [
     {
       "frontendId": "26",
@@ -122,7 +123,7 @@
           "filename": "2396-strictly-palindromic-number.java",
           "path": "2396-strictly-palindromic-number/2396-strictly-palindromic-number.java",
           "sha": "cc21e3649955fb02893991ff83f498239e3ac6e4",
-          "lastSyncedAt": "2026-10-08T04:43:25.691Z"
+          "lastSyncedAt": "2026-10-10T04:40:46.953Z"
         }
       ]
     }
