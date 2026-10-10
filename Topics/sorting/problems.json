@@ -5,7 +5,7 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-10-10T06:10:57.315Z",
+  "updatedAt": "2026-10-10T06:11:39.531Z",
   "problems": [
     {
       "frontendId": "15",
@@ -63,7 +63,7 @@
           "filename": "0242-valid-anagram.java",
           "path": "0242-valid-anagram/0242-valid-anagram.java",
           "sha": "8bbfda06501a76726b750b1ca603eb5b8d8e8441",
-          "lastSyncedAt": "2026-10-10T06:06:02.163Z"
+          "lastSyncedAt": "2026-10-10T06:11:39.531Z"
         }
       ]
     },
