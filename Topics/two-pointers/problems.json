@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-10T04:41:19.246Z",
+  "updatedAt": "2026-10-10T04:42:00.295Z",
   "problems": [
     {
       "frontendId": "26",
@@ -43,7 +43,7 @@
           "filename": "0027-remove-element.java",
           "path": "0027-remove-element/0027-remove-element.java",
           "sha": "4962f955dccfa5d47512fa024a4e7fa94a1495cf",
-          "lastSyncedAt": "2026-10-08T04:44:24.631Z"
+          "lastSyncedAt": "2026-10-10T04:42:00.295Z"
         }
       ]
     },
