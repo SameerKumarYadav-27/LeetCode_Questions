@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "matrix",
-    "name": "Matrix"
+    "name": "Matrix",
+    "tagId": "61053"
   },
-  "updatedAt": "2026-10-08T04:45:09.291Z",
+  "updatedAt": "2026-10-10T04:41:49.644Z",
   "problems": [
     {
       "frontendId": "74",
@@ -22,7 +23,7 @@
           "filename": "0074-search-a-2d-matrix.java",
           "path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.java",
           "sha": "0bca2d74bb15bf375ab50fba711240cdb4eb5f84",
-          "lastSyncedAt": "2026-10-08T04:44:16.894Z"
+          "lastSyncedAt": "2026-10-10T04:41:49.644Z"
         }
       ]
     },
