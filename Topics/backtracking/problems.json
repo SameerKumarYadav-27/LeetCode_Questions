@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "backtracking",
-    "name": "Backtracking"
+    "name": "Backtracking",
+    "tagId": "14"
   },
-  "updatedAt": "2026-10-08T06:22:50.162Z",
+  "updatedAt": "2026-10-10T04:36:42.024Z",
   "problems": [
     {
       "frontendId": "22",
@@ -22,7 +23,7 @@
           "filename": "0022-generate-parentheses.java",
           "path": "0022-generate-parentheses/0022-generate-parentheses.java",
           "sha": "4bd01d7cca72a6ae6835114f334c8ac0eee98271",
-          "lastSyncedAt": "2026-10-08T06:22:50.162Z"
+          "lastSyncedAt": "2026-10-10T04:36:42.024Z"
         }
       ]
     }
