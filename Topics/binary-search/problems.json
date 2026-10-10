@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "binary-search",
-    "name": "Binary Search"
+    "name": "Binary Search",
+    "tagId": "11"
   },
-  "updatedAt": "2026-10-08T04:45:24.474Z",
+  "updatedAt": "2026-10-10T04:41:49.644Z",
   "problems": [
     {
       "frontendId": "35",
@@ -42,7 +43,7 @@
           "filename": "0074-search-a-2d-matrix.java",
           "path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.java",
           "sha": "0bca2d74bb15bf375ab50fba711240cdb4eb5f84",
-          "lastSyncedAt": "2026-10-08T04:44:16.894Z"
+          "lastSyncedAt": "2026-10-10T04:41:49.644Z"
         }
       ]
     },
