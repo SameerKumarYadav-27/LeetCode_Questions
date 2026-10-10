@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-10-10T04:40:34.564Z",
+  "updatedAt": "2026-10-10T04:41:37.652Z",
   "problems": [
     {
       "frontendId": "1",
@@ -43,7 +43,7 @@
           "filename": "0014-longest-common-prefix.java",
           "path": "0014-longest-common-prefix/0014-longest-common-prefix.java",
           "sha": "23dcbdc2d1b9eee28bb3d730efbe79508b6f637f",
-          "lastSyncedAt": "2026-10-08T04:44:09.210Z"
+          "lastSyncedAt": "2026-10-10T04:41:37.652Z"
         }
       ]
     },
