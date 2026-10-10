@@ -2,9 +2,10 @@
   "version": 1,
   "topic": {
     "slug": "string",
-    "name": "String"
+    "name": "String",
+    "tagId": "10"
   },
-  "updatedAt": "2026-10-08T06:23:08.054Z",
+  "updatedAt": "2026-10-10T04:36:37.633Z",
   "problems": [
     {
       "frontendId": "14",
@@ -222,7 +223,7 @@
           "filename": "0709-to-lower-case.java",
           "path": "0709-to-lower-case/0709-to-lower-case.java",
           "sha": "fe216f49c22c461dd199a3c6e6d3fb00c3cb27d9",
-          "lastSyncedAt": "2026-10-08T06:22:45.761Z"
+          "lastSyncedAt": "2026-10-10T04:36:37.633Z"
         }
       ]
     },
