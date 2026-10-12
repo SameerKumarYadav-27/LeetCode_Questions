@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 34 | 27 | 7 | 0 |
+| 35 | 27 | 8 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 3 days | 21 |
+| 1 days | 3 days | 22 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-02 | 1 |
 | 2026-09-05 | 2 |
 | 2026-09-08 | 1 |
 | 2026-09-10 | 1 |
@@ -29,19 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-10-06 | 1 |
 | 2026-10-08 | 1 |
 | 2026-10-10 | 1 |
+| 2026-10-12 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 16 | 47% |
-| String | 13 | 38% |
-| Math | 11 | 32% |
-| Two Pointers | 7 | 21% |
-| Hash Table | 5 | 15% |
-| Binary Search | 4 | 12% |
-| Bracket Sequences | 4 | 12% |
-| Sorting | 4 | 12% |
+| Array | 16 | 46% |
+| String | 13 | 37% |
+| Math | 12 | 34% |
+| Two Pointers | 7 | 20% |
+| Hash Table | 5 | 14% |
+| Binary Search | 4 | 11% |
+| Bracket Sequences | 4 | 11% |
+| Sorting | 4 | 11% |
 | Bit Manipulation | 3 | 9% |
 | Dynamic Programming | 3 | 9% |
 
@@ -65,7 +65,7 @@ Contains topicwise list of solved problems.
 | [Heap](Topics/heap/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
 | [Linked List](Topics/linked-list/) | 0 |
-| [Math](Topics/math/) | 11 |
+| [Math](Topics/math/) | 12 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Memoization](Topics/memoization/) | 2 |
 | [Queue](Topics/queue/) | 1 |
