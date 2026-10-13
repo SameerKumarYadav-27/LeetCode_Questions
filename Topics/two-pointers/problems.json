@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-10-13T05:33:38.180Z",
+  "updatedAt": "2026-10-13T05:34:03.565Z",
   "problems": [
     {
       "frontendId": "15",
@@ -32,7 +32,7 @@
       "title": "3Sum Closest",
       "slug": "3sum-closest",
       "problemName": "0016-3sum-closest",
-      "difficulty": "Easy",
+      "difficulty": "Medium",
       "leetcodeUrl": "https://leetcode.com/problems/3sum-closest/",
       "folderPath": "0016-3sum-closest/",
       "readmePath": "0016-3sum-closest/README.md",
@@ -43,7 +43,7 @@
           "filename": "0016-3sum-closest.java",
           "path": "0016-3sum-closest/0016-3sum-closest.java",
           "sha": "030c947c72585cada33d8b1c2ffa141973444543",
-          "lastSyncedAt": "2026-10-13T05:33:38.180Z"
+          "lastSyncedAt": "2026-10-13T05:34:03.565Z"
         }
       ]
     },
