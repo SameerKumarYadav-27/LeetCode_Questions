@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 35 | 27 | 8 | 0 |
+| 36 | 28 | 8 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 3 days | 22 |
+| 2 days | 3 days | 23 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-09-05 | 2 |
 | 2026-09-08 | 1 |
 | 2026-09-10 | 1 |
 | 2026-09-24 | 5 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-10-08 | 1 |
 | 2026-10-10 | 1 |
 | 2026-10-12 | 1 |
+| 2026-10-13 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 16 | 46% |
-| String | 13 | 37% |
-| Math | 12 | 34% |
-| Two Pointers | 7 | 20% |
+| Array | 17 | 47% |
+| String | 13 | 36% |
+| Math | 12 | 33% |
+| Two Pointers | 8 | 22% |
 | Hash Table | 5 | 14% |
+| Sorting | 5 | 14% |
 | Binary Search | 4 | 11% |
 | Bracket Sequences | 4 | 11% |
-| Sorting | 4 | 11% |
-| Bit Manipulation | 3 | 9% |
-| Dynamic Programming | 3 | 9% |
+| Bit Manipulation | 3 | 8% |
+| Dynamic Programming | 3 | 8% |
 
 ## Topics
 
@@ -71,12 +71,12 @@ Contains topicwise list of solved problems.
 | [Queue](Topics/queue/) | 1 |
 | [Recursion](Topics/recursion/) | 2 |
 | [Simulation](Topics/simulation/) | 2 |
-| [Sorting](Topics/sorting/) | 4 |
+| [Sorting](Topics/sorting/) | 5 |
 | [Stack](Topics/stack/) | 3 |
 | [String](Topics/string/) | 13 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 7 |
+| [Two Pointers](Topics/two-pointers/) | 8 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
