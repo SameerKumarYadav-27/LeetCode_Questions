@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 37 | 28 | 9 | 0 |
+| 38 | 29 | 9 | 0 |
 
 ## Activity
 
@@ -28,18 +28,18 @@ Contains topicwise list of solved problems.
 | 2026-10-10 | 1 |
 | 2026-10-12 | 1 |
 | 2026-10-13 | 1 |
-| 2026-10-15 | 1 |
+| 2026-10-15 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 17 | 46% |
-| String | 13 | 35% |
+| Array | 17 | 45% |
+| String | 13 | 34% |
 | Math | 12 | 32% |
-| Two Pointers | 8 | 22% |
-| Hash Table | 5 | 14% |
-| Sorting | 5 | 14% |
+| Two Pointers | 9 | 24% |
+| Hash Table | 5 | 13% |
+| Sorting | 5 | 13% |
 | Binary Search | 4 | 11% |
 | Bracket Sequences | 4 | 11% |
 | Bit Manipulation | 3 | 8% |
@@ -64,7 +64,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 5 |
 | [Heap](Topics/heap/) | 0 |
 | [Knuth–Morris–Pratt Algorithm](Topics/knuth-morris-pratt-algorithm/) | 1 |
-| [Linked List](Topics/linked-list/) | 1 |
+| [Linked List](Topics/linked-list/) | 2 |
 | [Math](Topics/math/) | 12 |
 | [Matrix](Topics/matrix/) | 2 |
 | [Memoization](Topics/memoization/) | 2 |
@@ -76,7 +76,7 @@ Contains topicwise list of solved problems.
 | [String](Topics/string/) | 13 |
 | [String Matching](Topics/string-matching/) | 1 |
 | [Trie](Topics/trie/) | 1 |
-| [Two Pointers](Topics/two-pointers/) | 8 |
+| [Two Pointers](Topics/two-pointers/) | 9 |
 | [Z Algorithm](Topics/z-algorithm/) | 1 |
 <!---LeetHub Summary End-->
 
