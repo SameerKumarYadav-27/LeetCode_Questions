@@ -2,8 +2,30 @@
   "version": 1,
   "topic": {
     "slug": "linked-list",
-    "name": "Linked List"
+    "name": "Linked List",
+    "tagId": "7"
   },
-  "updatedAt": "2026-09-15T05:01:39.197Z",
-  "problems": []
+  "updatedAt": "2026-10-15T05:13:12.732Z",
+  "problems": [
+    {
+      "frontendId": "206",
+      "title": "Reverse Linked List",
+      "slug": "reverse-linked-list",
+      "problemName": "0206-reverse-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/",
+      "folderPath": "0206-reverse-linked-list/",
+      "readmePath": "0206-reverse-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0206-reverse-linked-list.java",
+          "path": "0206-reverse-linked-list/0206-reverse-linked-list.java",
+          "sha": "61bbeab1daf5374b40fe1753b4f9f2a3e64cf20c",
+          "lastSyncedAt": "2026-10-15T05:13:12.732Z"
+        }
+      ]
+    }
+  ]
 }
