@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-13T06:18:09.870Z",
+  "updatedAt": "2026-10-15T05:13:12.732Z",
   "problems": [
     {
       "frontendId": "50",
@@ -24,6 +24,26 @@
           "path": "0050-powx-n/0050-powx-n.java",
           "sha": "d460eb4b5ba19d62a2ecabfd7f8b66f90c13d1b4",
           "lastSyncedAt": "2026-10-13T06:18:09.870Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "206",
+      "title": "Reverse Linked List",
+      "slug": "reverse-linked-list",
+      "problemName": "0206-reverse-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list/",
+      "folderPath": "0206-reverse-linked-list/",
+      "readmePath": "0206-reverse-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0206-reverse-linked-list.java",
+          "path": "0206-reverse-linked-list/0206-reverse-linked-list.java",
+          "sha": "61bbeab1daf5374b40fe1753b4f9f2a3e64cf20c",
+          "lastSyncedAt": "2026-10-15T05:13:12.732Z"
         }
       ]
     },
