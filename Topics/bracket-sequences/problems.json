@@ -5,7 +5,7 @@
     "name": "Bracket Sequences",
     "tagId": "122055"
   },
-  "updatedAt": "2026-10-15T05:23:59.346Z",
+  "updatedAt": "2026-10-15T05:24:37.623Z",
   "problems": [
     {
       "frontendId": "20",
@@ -83,7 +83,7 @@
           "filename": "1614-maximum-nesting-depth-of-the-parentheses.java",
           "path": "1614-maximum-nesting-depth-of-the-parentheses/1614-maximum-nesting-depth-of-the-parentheses.java",
           "sha": "2fef31761d26afad48c83ac9c78ecaa2a73943df",
-          "lastSyncedAt": "2026-10-15T05:21:17.214Z"
+          "lastSyncedAt": "2026-10-15T05:24:37.623Z"
         }
       ]
     }
