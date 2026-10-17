@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-17T05:49:43.939Z",
+  "updatedAt": "2026-10-17T05:50:49.499Z",
   "problems": [
     {
       "frontendId": "9",
@@ -243,7 +243,7 @@
           "filename": "3875-construct-uniform-parity-array-i.java",
           "path": "3875-construct-uniform-parity-array-i/3875-construct-uniform-parity-array-i.java",
           "sha": "b4b74b86e577a01c125efe501aebef214962e400",
-          "lastSyncedAt": "2026-10-15T05:25:29.236Z"
+          "lastSyncedAt": "2026-10-17T05:50:49.499Z"
         }
       ]
     }
