@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-10-17T05:48:34.983Z",
+  "updatedAt": "2026-10-17T05:52:36.104Z",
   "problems": [
     {
       "frontendId": "203",
@@ -23,7 +23,7 @@
           "filename": "0203-remove-linked-list-elements.java",
           "path": "0203-remove-linked-list-elements/0203-remove-linked-list-elements.java",
           "sha": "c2898629a27cdd4ab6a3266fd10442c57dc6eec4",
-          "lastSyncedAt": "2026-10-17T05:48:26.562Z"
+          "lastSyncedAt": "2026-10-17T05:52:36.104Z"
         }
       ]
     },
