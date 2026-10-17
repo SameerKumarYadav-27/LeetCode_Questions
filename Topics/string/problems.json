@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-10-17T05:47:12.843Z",
+  "updatedAt": "2026-10-17T05:47:18.134Z",
   "problems": [
     {
       "frontendId": "14",
@@ -183,7 +183,7 @@
           "filename": "0387-first-unique-character-in-a-string.java",
           "path": "0387-first-unique-character-in-a-string/0387-first-unique-character-in-a-string.java",
           "sha": "683a099360949b462312a124ef545bce6915970f",
-          "lastSyncedAt": "2026-10-17T05:44:07.854Z"
+          "lastSyncedAt": "2026-10-17T05:47:18.134Z"
         }
       ]
     },
