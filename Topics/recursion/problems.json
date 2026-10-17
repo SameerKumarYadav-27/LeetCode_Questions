@@ -5,7 +5,7 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-10-17T05:48:26.562Z",
+  "updatedAt": "2026-10-17T05:48:34.983Z",
   "problems": [
     {
       "frontendId": "50",
@@ -63,7 +63,7 @@
           "filename": "0206-reverse-linked-list.java",
           "path": "0206-reverse-linked-list/0206-reverse-linked-list.java",
           "sha": "61bbeab1daf5374b40fe1753b4f9f2a3e64cf20c",
-          "lastSyncedAt": "2026-10-17T05:46:23.535Z"
+          "lastSyncedAt": "2026-10-17T05:48:34.983Z"
         }
       ]
     },
