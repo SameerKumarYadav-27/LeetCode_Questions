@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-10-17T05:47:32.728Z",
+  "updatedAt": "2026-10-17T05:48:45.161Z",
   "problems": [
     {
       "frontendId": "9",
@@ -103,7 +103,7 @@
           "filename": "0172-factorial-trailing-zeroes.java",
           "path": "0172-factorial-trailing-zeroes/0172-factorial-trailing-zeroes.java",
           "sha": "943ff92338d8dd10ed0141fa716806925557c276",
-          "lastSyncedAt": "2026-10-17T05:46:33.454Z"
+          "lastSyncedAt": "2026-10-17T05:48:45.161Z"
         }
       ]
     },
